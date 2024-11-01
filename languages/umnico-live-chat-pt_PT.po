@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-05 17:20+0700\n"
+"PO-Revision-Date: 2024-02-05 18:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html_e;_e\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: install.php\n"
+"X-Poedit-SearchPath-2: umnico-live-chat.php\n"
+
+#: templates/plugin-install.php:6 umnico-live-chat.php:41
+msgid "Add Umnico Live Chat to your website"
+msgstr "Adicione Umnico Live Chat ao seu site"
+
+#: templates/plugin-install.php:9
+msgid ""
+"Free live chat software - Umnico Live Chat, will be automatically added to "
+"your WordPress site."
+msgstr ""
+"Software gratuito de chat ao vivo - Umnico Live Chat, será adicionado "
+"automaticamente ao seu site WordPress."
+
+#: templates/plugin-install.php:13
+msgid "Install"
+msgstr "Instalar"
+
+#: templates/plugin-installed.php:5
+msgid "Umnico Live Chat has been successfully installed"
+msgstr "O Umnico Live Chat foi instalado com sucesso"
+
+#: templates/plugin-installed.php:8
+msgid ""
+"Live chat widget is installed on your website. Now you can set up and test "
+"it in your Umnico account."
+msgstr ""
+"O widget de chat em direto está instalado no seu site. Agora pode configurá-"
+"lo e testá-lo na sua conta Umnico."
+
+#: templates/plugin-installed.php:11
+msgid "Set up"
+msgstr "Configurar"
+
+#: templates/plugin-installed.php:15
+msgid ""
+"You can control the chat appearance on you website (disconnect and connect) "
+"using the following button."
+msgstr ""
+"Pode controlar a aparência do chat no seu site (desligar e ligar) utilizando "
+"o seguinte botão."
+
+#: templates/plugin-installed.php:18 umnico-live-chat.php:96
+msgid "Switch on"
+msgstr "Ligar"
+
+#: templates/plugin-installed.php:18 umnico-live-chat.php:93
+msgid "Switch off"
+msgstr "Desligar"
+
+#: templates/plugin-installed.php:22
+msgid "Any questions? We are always here to help you!"
+msgstr "Alguma dúvida? Estamos sempre aqui para o ajudar!"
+
+#: templates/plugin-installed.php:26
+msgid "Chat Support"
+msgstr "Apoio ao Chat"
+
+#: templates/plugin-installed.php:29
+msgid "Knowledge Base"
+msgstr "Base de conhecimentos"
+
+#: umnico-live-chat.php:42
+msgid "Umnico Live Chat"
+msgstr "Umnico Live Chat"
+
+#~ msgid "Set up Umnico Live Chat"
+#~ msgstr "Configurar o Umnico Live Chat"
+
+#~ msgid "Turn on Umnico Live Chat"
+#~ msgstr "Ativar o Umnico Live Chat"
+
+#~ msgid "Turn off Umnico Live Chat"
+#~ msgstr "Desativar o Umnico Live Chat"

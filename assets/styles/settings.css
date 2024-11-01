@@ -1,0 +1,103 @@
+body {
+  background: #ffffff !important;
+}
+
+.umnico-plugin {
+  font-family: 'Gotham Pro', sans-serif;
+  background: transparent;
+}
+
+.umnico-plugin__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70vh;
+  min-height: 550px;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  text-align: center;
+}
+
+.umnico-plugin__logo {
+  display: block;
+  margin: 48px 0 72px 0;
+}
+
+.umnico-plugin__title {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  margin: 0;
+  margin-bottom: 14px;
+}
+
+.umnico-plugin__text {
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0;
+  margin-bottom: 24px;
+  max-width: 430px;
+}
+
+.umnico-brand-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 500;
+  font-family: inherit;
+  padding: 13px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid transparent;
+  width: 100%;
+  background-color: #1b5cfe;
+  color: #fff;
+  text-decoration: unset;
+  margin-bottom: 28px;
+}
+
+.umnico-brand-button:hover,
+.umnico-brand-button:focus,
+.umnico-brand-button:focus-visible {
+  background-color: #003dd5;
+  color: #fff;
+}
+
+.umnico-brand-button:active {
+  background-color: #002788;
+  color: #fff;
+}
+
+.umnico-brand-button:disabled {
+  cursor: not-allowed;
+  background-color: #f0f0f0;
+  color: #b0b0b0;
+}
+
+.umnico-brand-button--long {
+  max-width: 340px;
+}
+
+.umnico-plugin--installed .umnico-plugin__logo {
+  margin-bottom: 28px;
+}
+
+.umnico-plugin--installed .umnico-plugin__text {
+  margin-bottom: 16px;
+}
+
+.umnico-plugin__buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.umnico-plugin__buttons .umnico-brand-button {
+  max-width: fit-content;
+  margin-right: 16px;
+}
